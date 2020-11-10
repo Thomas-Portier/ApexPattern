@@ -46,3 +46,4 @@ $RECYCLE.BIN/
 /.idea/codeStyles/Project.xml
 /.idea/inspectionProfiles/Project_Default.xml
 /.idea/vcs.xml
+/package-lock.json
