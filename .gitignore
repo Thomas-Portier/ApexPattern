@@ -36,3 +36,13 @@ Thumbs.db
 ehthumbs.db
 [Dd]esktop.ini
 $RECYCLE.BIN/
+/.idea/.gitignore
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/illuminatedCloud.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/IlluminatedCloud/EnterprisePattern/OfflineSymbolTable.zip
+/.idea/patternProjet.iml
+/.idea/codeStyles/Project.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
